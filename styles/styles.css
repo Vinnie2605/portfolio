@@ -345,6 +345,9 @@ section {
   transform: translateX(-50%);
 }
 
+.titre{
+  font-size: larger;
+}
 /*Timeline*/
 .timeline {
   display: grid;
