@@ -347,6 +347,7 @@ section {
 
 .titre{
   font-size: larger;
+  text-decoration: underline;
 }
 /*Timeline*/
 .timeline {
